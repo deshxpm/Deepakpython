@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info
+.idea/
+.vscode/
+*.log*
+*.org
+.project
+.pydevproject
+.DS_Store
+*~
+\#*\#
+.projectile
+.#*
+local_settings.py
+media/
+collectstatic/
+*.sqlite3
